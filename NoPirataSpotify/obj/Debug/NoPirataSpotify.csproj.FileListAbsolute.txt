@@ -1,0 +1,10 @@
+C:\Users\moraaleg\source\repos\NoPirataSpotify\NoPirataSpotify\bin\Debug\NoPirataSpotify.exe.config
+C:\Users\moraaleg\source\repos\NoPirataSpotify\NoPirataSpotify\bin\Debug\NoPirataSpotify.exe
+C:\Users\moraaleg\source\repos\NoPirataSpotify\NoPirataSpotify\bin\Debug\NoPirataSpotify.pdb
+C:\Users\moraaleg\source\repos\NoPirataSpotify\NoPirataSpotify\obj\Debug\NoPirataSpotify.csprojAssemblyReference.cache
+C:\Users\moraaleg\source\repos\NoPirataSpotify\NoPirataSpotify\obj\Debug\NoPirataSpotify.Form1.resources
+C:\Users\moraaleg\source\repos\NoPirataSpotify\NoPirataSpotify\obj\Debug\NoPirataSpotify.Properties.Resources.resources
+C:\Users\moraaleg\source\repos\NoPirataSpotify\NoPirataSpotify\obj\Debug\NoPirataSpotify.csproj.GenerateResource.cache
+C:\Users\moraaleg\source\repos\NoPirataSpotify\NoPirataSpotify\obj\Debug\NoPirataSpotify.csproj.CoreCompileInputs.cache
+C:\Users\moraaleg\source\repos\NoPirataSpotify\NoPirataSpotify\obj\Debug\NoPirataSpotify.exe
+C:\Users\moraaleg\source\repos\NoPirataSpotify\NoPirataSpotify\obj\Debug\NoPirataSpotify.pdb
